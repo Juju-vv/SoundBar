@@ -13,11 +13,11 @@ Inspired by https://robtrevino.com/2019/06/23/using-a-rgb-led-strip-as-an-audio-
 
 ###### Cygwin
 You first need to install Cygwin with the basic developper tools and also Python (I'm using Python version 3.6.9)
-Then install [Pyaudio](https://github.com/intxcc/pyaudio_portaudio)
+Then install [**Pyaudio**](https://github.com/intxcc/pyaudio_portaudio)
 
 ###### Python 
-If pip is not installed you should get it by downloading [this](https://bootstrap.pypa.io/get-pip.py).
-Then in Cygwin go to the directory where you downloaded **get-pip.py** and enter the following command: `pythonX get-pip.py` where 'X' is your python version.  
+If pip is not installed you should get it by downloading [**this**](https://bootstrap.pypa.io/get-pip.py).
+Then in Cygwin go to the directory where you downloaded **get-pip.py** and enter the following command: `pythonX get-pip.py` _where 'X' is your python version._ 
 
 To run the python script you may have to install 
 - Pyserial
@@ -26,7 +26,16 @@ To run the python script you may have to install
 
 Simply use `pip install [package name]`
 
-### Arduino
+## Using
+
+#### Arduino circuit
+
+See this [**link**](https://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_usb_and_extrenal_power_ws2812-800x380.jpg) to wire the LED strip to your Arduino
+
+The Arduino code is using PIN 6 to command the LED strip.
+
+#### Python script
+Cygwin is showing serial port as >dev/ttyS
 
 
 
