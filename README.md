@@ -35,7 +35,8 @@ See this [**link**](https://www.tweaking4all.com/wp-content/uploads/2014/01/ardu
 The Arduino code is using PIN 6 to command the LED strip.
 
 #### Python script
-Cygwin is showing serial port as >dev/ttyS
+Cygwin is showing serial port as `dev/ttySX` where is `X` is the COM port of your Arduino with an offset of 1. 
+So for example if your Arduino is using COM3, go to the python script line 6 and change it to ``` python port = `\dev\ttyS2`  ```
 
 
 
