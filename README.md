@@ -1,7 +1,7 @@
 # SoundBar
 Sound reactive LED strip using Python and Arduino. 
 
-![IMG_20200314_142329_009](https://user-images.githubusercontent.com/22733630/76682884-de5e2880-65ff-11ea-83c2-33e1c08c93bf.jpg =500x500)
+![IMG_20200314_142329_009](https://user-images.githubusercontent.com/22733630/76682884-de5e2880-65ff-11ea-83c2-33e1c08c93bf.jpg )
 <img src="https://user-images.githubusercontent.com/22733630/76682884-de5e2880-65ff-11ea-83c2-33e1c08c93bf.jpg" data-canonical-src="https://user-images.githubusercontent.com/22733630/76682884-de5e2880-65ff-11ea-83c2-33e1c08c93bf.jpg" width="500" height="500" />
 
 
