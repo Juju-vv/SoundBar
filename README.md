@@ -39,7 +39,7 @@ Cygwin is showing serial port as `dev/ttySX` where is `X` is the COM port of you
 
 So for example if your Arduino is using COM3, go to the python script line 6 and change it to
 ``` python
-port = `\dev\ttyS2` 
+port = '\dev\ttyS2' 
 ```
 
 
