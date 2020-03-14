@@ -1,7 +1,7 @@
 # SoundBar
 Sound reactive LED strip using Python and Arduino. 
 
-![Animated GIF-downsized](https://user-images.githubusercontent.com/22733630/76689326-0ddb5800-6635-11ea-8ab7-b7e316ff2bab.gif)
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/22733630/76689335-2ba8bd00-6635-11ea-9997-79e3fb901b4e.gif)
 
 
 Inspired by https://robtrevino.com/2019/06/23/using-a-rgb-led-strip-as-an-audio-visualizer/. I took his code and made my own version of it, it is not perfect but it works. So feel free to play with it and improve it !
